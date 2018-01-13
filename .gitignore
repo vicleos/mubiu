@@ -21,3 +21,4 @@ resources/assets/themes/*
 .phpstorm.meta.php
 public/img/posts/
 .well-known/
+.DS_Store
