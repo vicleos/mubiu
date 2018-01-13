@@ -1,1 +1,1 @@
-Mubiu Laravel System
+Mubiu system
